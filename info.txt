@@ -1,0 +1,9 @@
+Name: Sushant/Shubham
+Date: 2026-05-25
+
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"Hello world";
+}
+
